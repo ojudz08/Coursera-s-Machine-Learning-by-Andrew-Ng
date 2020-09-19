@@ -3,4 +3,4 @@ This repository contains all the exercises of Andrew Ng's Machine Learning cours
 
 Disclaimer: All codes are not fully owned by the contributor. Most of the codes or examples are modified for the purpose of understanding the topics discussed. 
 
-Moving forward: The exercises will be replicated in Python. Will be updated this Q1 2020. 
+Moving forward: The exercises will be replicated in Python. Will update this Q3 2020.
